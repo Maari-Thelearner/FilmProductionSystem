@@ -1,0 +1,5 @@
+connectionstring -
+
+Server - localhost
+username - sa
+password - StrongPassword@123
